@@ -1,0 +1,108 @@
+#A{
+    background-color:rgb(56, 195, 205);
+}
+/* #B{
+    padding-right:35px;
+} */
+h3{
+    color:white;
+    padding-top:10px;
+    font-family:Avanta Garde;
+}
+/* body{
+    background-color:#e3fffd;
+} */
+.custom-toggler.navbar-toggler{
+    border-color: black;
+}
+.h:hover{
+    background-color: rgb(26, 0, 118);
+    color: white;
+    border-radius: 10px;
+    font-size:25px;
+}
+.b{
+    color: black;
+}
+.header{
+    color:black;
+    padding:10px;
+  }
+  strong{
+      background-color:black;
+      color:white;
+      border-radius: 15px;
+      padding:4px;
+  }
+  .w{
+    max-width: 450px;
+    height: 370px;
+    box-shadow: 5px 4px 8px 0 rgba(0, 0, 0, 0.2), 5px 6px 20px 0 rgba(0, 0, 0, 0.19); /* card login pages*/
+    margin:auto;
+    padding-left: auto;
+}
+
+.re{
+    max-width: 500px;
+    height: auto;
+    box-shadow: 5px 4px 8px 0 rgba(0, 0, 0, 0.2), 5px 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin:auto;
+    padding-left: auto;
+}
+
+.lo:hover{
+    box-shadow: 5px 4px 8px 0 rgba(85,26,139, 0.47), 5px 6px 20px 0 rgba(85,26,139);
+}
+
+.log{
+    width: auto;
+    height: auto;
+    border-radius: 50px;
+    border:white;
+    padding-top: 45px;
+
+}
+
+.log1{
+    width: 300px;
+    height: 380px;
+    border-radius: 50px;
+    border:white;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+.dropbtn {
+    background-color:white;
+    color: white;
+     padding: 7px;
+    border: none;
+  }
+  
+  .dropdown {
+    position: relative;
+    display: inline-block;
+  }
+  
+  .dropdown-content {
+    display: none;
+    background-color: #f1f1f1;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  }
+  
+  .dropdown-content a {
+    color: black;
+    padding: 12px 16px;
+    text-decoration: none;
+    display: block;
+  }
+  
+  .dropdown-content a:hover {background-color: #68d7ee;}
+  
+  .dropdown:hover .dropdown-content {display: block;}
+  
+  .dropdown:hover .dropbtn {background-color: rgb(26, 0, 118);border-radius: 10px;}
+
+
+  
